@@ -12,6 +12,6 @@ jobs:
         uses: HubSpot/hubspot-cms-deploy-action@v1.5
         with:
           src_dir: src
-          dest_dir: cms-theme-boilerplate
-          portal_id: ${{ secrets.hubspot_portal_id }}
-          personal_access_key: ${{ secrets.hubspot_personal_access_key }}
+          dest_dir: neu-reality-theme
+          portal_id: 143988533
+          personal_access_key: CiRldTEtMGNlMC0zM2RkLTQzMzYtOTU2Ni0xZTJlMDVmNDgzMTUQta7URBic4ZQeKhkABeaRghkGhynJabey9ZtKPR1_HmYFhr-eSgNldTE
